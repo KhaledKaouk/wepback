@@ -1,0 +1,13 @@
+body {
+    background-color: teal;
+}
+button {
+    background-color: transparent;
+    color: rgba(255, 0, 0, 0.459);
+    border: 1px solid rgba(255, 0, 0, 0.459);
+}
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}

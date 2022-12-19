@@ -1,0 +1,20 @@
+body {
+  background-color: teal;
+}
+
+button {
+  background-color: transparent;
+  color: rgba(255, 0, 0, 0.459);
+  border: 1px solid rgba(255, 0, 0, 0.459);
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 1rem;
+}
+/*# sourceMappingURL=main.css.map */
